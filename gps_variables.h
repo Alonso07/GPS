@@ -1,0 +1,10 @@
+void initial_setup();
+void  leer_gps();
+void escribir_serial();
+void borrar_letras();
+void escribir_letras();
+void escribir_datos_en();
+void runner();
+void posicion_xy();
+int comp_str();
+float str2num_f( char *string_in);
